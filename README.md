@@ -11,8 +11,9 @@
 
 ## 安装下载
 
-
-
+- 下载地址 https://github.com/pinegit123/fast-cache/realeaes
+- `npm i fast-cache`
+- CDN http://unpkg.com/fast-cache/release/bundle.js
 
 
 ## 快速使用
